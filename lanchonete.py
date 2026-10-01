@@ -1,23 +1,8 @@
-# -*- coding: utf-8 -*-
 # =============================================================================
 # SISTEMA DE ATENDIMENTO E PEDIDOS - LANCHONETE
 # Disciplina: Algoritmos e Programação (ADS - Unilavras)
 # Aluno: Eugênio Ferreira Nogueira
 #
-# O que o programa faz:
-#   1. Pede o nome do cliente
-#   2. Mostra o cardápio e recebe pedidos (código + quantidade) em repetição
-#   3. Acumula o total da compra
-#   4. Calcula o desconto conforme o valor total
-#   5. Pede a forma de pagamento
-#   6. Mostra um resumo final
-#
-# Só foram usados recursos vistos em aula: variáveis, input/print, operadores,
-# if/elif/else, match/case, while, funções e f-strings.
-# NÃO foram usadas listas, tuplas, dicionários ou outras estruturas de dados.
-# =============================================================================
-
-
 # -----------------------------------------------------------------------------
 # FUNÇÕES DO CARDÁPIO
 # -----------------------------------------------------------------------------
